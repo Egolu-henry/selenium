@@ -1,0 +1,626 @@
+Team name,year,win,losses,goal for
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
+Boston Bruins,1990,44,24,299
+Buffalo Sabres,1990,31,30,292
+Calgary Flames,1990,46,26,344
+Chicago Blackhawks,1990,49,23,284
+Detroit Red Wings,1990,34,38,273
+Edmonton Oilers,1990,37,37,272
+Hartford Whalers,1990,31,38,238
+Los Angeles Kings,1990,46,24,340
+Minnesota North Stars,1990,27,39,256
+Montreal Canadiens,1990,39,30,273
+New Jersey Devils,1990,32,33,272
+New York Islanders,1990,25,45,223
+New York Rangers,1990,36,31,297
+Philadelphia Flyers,1990,33,37,252
+Pittsburgh Penguins,1990,41,33,342
+Quebec Nordiques,1990,16,50,236
+St. Louis Blues,1990,47,22,310
+Toronto Maple Leafs,1990,23,46,241
+Vancouver Canucks,1990,28,43,243
+Washington Capitals,1990,37,36,258
+Winnipeg Jets,1990,26,43,260
+Boston Bruins,1991,36,32,270
+Buffalo Sabres,1991,31,37,289
+Calgary Flames,1991,31,37,296
+Chicago Blackhawks,1991,36,29,257
